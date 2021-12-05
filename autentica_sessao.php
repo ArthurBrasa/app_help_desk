@@ -1,0 +1,1 @@
+<?php require "./help_desk_scripts/autentica_sessao.php"  ?>
